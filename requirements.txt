@@ -1,0 +1,17 @@
+--index-url https://download.pytorch.org/whl/cu128
+--extra-index-url https://pypi.org/simple
+
+torch
+torchvision
+
+numpy
+matplotlib
+pandas
+opencv-python
+notebook
+ipykernel
+scikit-learn
+Flask
+seaborn
+tensorboard 
+tqdm
